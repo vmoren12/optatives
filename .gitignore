@@ -1,0 +1,18 @@
+# Sistema operatiu
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dades reals d'alumnat i projectes desats (no s'han de pujar mai)
+*.xlsx
+*.xls
+*.xlsm
+*.ods
+*.csv
+*.tsv
+*-projecte-*.json
